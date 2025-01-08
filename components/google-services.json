@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072350976846",
+    "project_id": "casasmart-ea97c",
+    "storage_bucket": "casasmart-ea97c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072350976846:android:d2d827d94f19ae22e7dc1f",
+        "android_client_info": {
+          "package_name": "Casa_.Smart1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsmw72rxaVin42Ufln-Cage7LimVWaHuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
