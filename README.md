@@ -1,4 +1,3 @@
-```markdown
 # ⚙️ Projeto de Automação do Motor para Bombear Água
 
 Este é um projeto pessoal que visa automatizar o motor responsável por bombear água de um poço para as caixas d’água de uma residência familiar. O sistema utiliza tecnologia moderna para garantir eficiência, controle remoto e confiabilidade no gerenciamento de água.
@@ -69,5 +68,7 @@ Uma imagem do motor é exibida na interface para facilitar a identificação vis
 Este projeto foi desenvolvido como parte de uma iniciativa pessoal para resolver problemas reais no gerenciamento de recursos hídricos de uma família.
 
 Fique à vontade para contribuir ou enviar sugestões!
-```
 
+📃 Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
